@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.scss';
 import AppComponent from './components/App/app';
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
