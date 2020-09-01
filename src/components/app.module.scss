@@ -1,0 +1,27 @@
+$greyDark: #040404;
+$greyLight: #131313;
+$greyLighter: #282828;
+$whiteText: #fff;
+$greyText: #b3b3b3;
+
+* {
+    box-sizing: border-box;
+}
+
+.app {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.statusMessage {
+    font-size: 0.8em;
+}
+
+.player {
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+}
